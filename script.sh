@@ -10,7 +10,7 @@ echo "PYTHON 3 INSTALLATION COMPLETE."
 # Training machine learning model
 
 # - Installing requirements
-pip install -r requirements
+# pip install -r requirements
 
 # - Calling model training script 
 python train_model.py
